@@ -1,7 +1,0 @@
-2
-5
-abdec
-abcde
-5
-ceyfg
-cefgy
